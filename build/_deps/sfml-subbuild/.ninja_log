@@ -1,0 +1,21 @@
+# ninja log v6
+1	67	7426854072319431	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	53390a91745dbdf9
+1	67	7426854072319431	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	53390a91745dbdf9
+68	25623	7426854327877946	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	eb1e67755f4616ce
+68	25623	7426854327877946	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	eb1e67755f4616ce
+25623	27252	7426854327959695	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	581a2c6fd947e25
+25623	27252	7426854327959695	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	581a2c6fd947e25
+27260	27317	7426854344796560	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f6587e24680154f0
+27260	27317	7426854344796560	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f6587e24680154f0
+27317	27378	7426854345439199	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	876d35979971c254
+27317	27378	7426854345439199	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	876d35979971c254
+27378	27442	7426854346057379	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f7e28f9a666b5a87
+27378	27442	7426854346057379	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f7e28f9a666b5a87
+27442	27494	7426854346590894	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ee7724d6becd88b2
+27442	27494	7426854346590894	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ee7724d6becd88b2
+27495	27553	7426854347175646	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ed066575051bc94a
+27495	27553	7426854347175646	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ed066575051bc94a
+27553	27640	7426854348032592	CMakeFiles/sfml-populate-complete	eea227702792da4f
+27553	27640	7426854348032592	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	eea227702792da4f
+27553	27640	7426854348032592	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	eea227702792da4f
+27553	27640	7426854348032592	C:/Users/jaymi/Documents/Code/CPP/SFMLTesting/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	eea227702792da4f
