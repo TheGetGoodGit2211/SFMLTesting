@@ -17,8 +17,6 @@ int main()
 
   sf::Sprite sprite; sprite.setTexture(texture);
 
-  sprite.scale(5.f, 5.f);
-
   while (window.isOpen())
   {
 
