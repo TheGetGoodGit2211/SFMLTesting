@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(SFMLTesting LANGUAGES CXX)
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "./bin/")
 option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
